@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "system-ui for 𝕏",
+  "version": "1.0",
+  "description": "𝕏（旧Twitter）のフォントをsystem-uiに変更します。",
+  "content_scripts": [
+    {
+      "matches": ["https://x.com/*", "https://twitter.com/*"],
+      "css": ["style.css"],
+      "run_at": "document_start"
+    }
+  ]
+}

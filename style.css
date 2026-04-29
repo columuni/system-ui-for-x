@@ -1,0 +1,11 @@
+/* system-ui for 𝕏 (Windows 11 / Segoe UI Variable) */
+
+/* すべての要素のフォントをsystem-uiに上書き */
+*, *::before, *::after {
+  font-family: system-ui, -apple-system, sans-serif !important;
+}
+
+/* 𝕏が動的に付与するフォント指定を無効化 */
+[style*="font-family"] {
+  font-family: system-ui, -apple-system, sans-serif !important;
+}
