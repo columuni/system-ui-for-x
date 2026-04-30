@@ -1,5 +1,5 @@
 # system-ui for 𝕏
-𝕏（旧Twitter）のフォントをsystem-uiに変更するChrome拡張機能です。
+𝕏（旧Twitter）のフォントをsystem-uiに変更するChrome拡張機能。
 
 ## インストール
 1. このリポジトリをクローンまたはダウンロード（ZIPは解凍）

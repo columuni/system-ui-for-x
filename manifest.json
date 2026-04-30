@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "system-ui for 𝕏",
   "version": "1.0",
-  "description": "𝕏（旧Twitter）のフォントをsystem-uiに変更するChrome拡張機能です。",
+  "description": "𝕏（旧Twitter）のフォントをsystem-uiに変更するChrome拡張機能。",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
